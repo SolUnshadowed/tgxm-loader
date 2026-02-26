@@ -1,0 +1,18 @@
+{
+    "name": "tgxm-loader",
+    "version": "2.0.0",
+    "main": "src/TGXMLoader.js",
+    "type": "module",
+    "dependencies": {
+        "bufferpack": "^0.0.6",
+        "jpeg-js": "^0.4.4",
+        "pngjs": "^7.0.0",
+        "three": "^0.181.2",
+        "upng-js": "^2.1.0"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.39.2",
+        "@stylistic/eslint-plugin": "^5.8.0",
+        "eslint": "^9.39.2"
+    }
+}
